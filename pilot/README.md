@@ -25,7 +25,8 @@ network, even with no name attached.
 | `../harness/results/pilot_stats.json` | The full analysis output the paper draws on |
 
 `pilot_participant_means.csv` carries the same five numbers Figure 2 plots, so
-it discloses nothing the paper has not, and it lets you regenerate that panel.
+it reveals nothing the paper does not already show, and it lets you regenerate
+that panel.
 The demographic breakdowns are marginals and not a joint table, for the reason
 above.
 

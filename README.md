@@ -1,7 +1,8 @@
-# You Can't Simulate Grandma — code and data
+# SilverQuorn — You Can't Simulate Grandma
 
 Replication material for *You Can't Simulate Grandma: Elder User Simulation
-Against a Record That Stops at 65*.
+Against a Record That Stops at 65*, Sathvik Subramanian (WisenAI; Newark
+Academy), UserSim @ NeurIPS 2026.
 
 The paper reports that simulated elder users cannot be validated, because the
 human records they would be checked against fail past 65 in one of two ways:
@@ -9,6 +10,13 @@ either the age brackets stop resolving, or the pool runs out of people. This
 repository holds the harness that measured what six models do in that region,
 the dataset audit, the MHSC power analysis, and the aggregate results of a
 small pilot with real elder raters.
+
+## The name
+
+POPQUORN is the politeness corpus this work runs on. The silver is hair.
+SilverQuorn is POPQUORN asked of older adults — which is the one question
+POPQUORN cannot answer, because everyone past 65 sits in a single open-ended
+bracket.
 
 ## Setup
 
