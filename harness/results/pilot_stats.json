@@ -1,0 +1,281 @@
+{
+ "meta": {
+  "n_started": 8,
+  "n_completers": 5,
+  "excluded_partials": {
+   "P05": 3,
+   "P07": 1,
+   "P08": 27
+  },
+  "bracket_counts": {
+   "70\u201374": 3,
+   "65\u201369": 2
+  },
+  "country_counts": {
+   "India": 3,
+   "United States": 2
+  }
+ },
+ "q1_pilot_brackets": {
+  "65\u201369": {
+   "n": 2,
+   "mean": 3.312,
+   "ci95": [
+    3.15,
+    3.475
+   ]
+  },
+  "70\u201374": {
+   "n": 3,
+   "mean": 3.175,
+   "ci95": [
+    2.725,
+    3.425
+   ]
+  },
+  "all_65plus": {
+   "n": 5,
+   "mean": 3.23,
+   "ci95": [
+    2.96,
+    3.435
+   ]
+  }
+ },
+ "q1_popquorn_brackets_40items": {
+  "18-24": {
+   "mean": 3.379,
+   "n_items": 29
+  },
+  "25-29": {
+   "mean": 3.905,
+   "n_items": 21
+  },
+  "30-34": {
+   "mean": 3.167,
+   "n_items": 26
+  },
+  "35-39": {
+   "mean": 2.75,
+   "n_items": 12
+  },
+  "40-44": {
+   "mean": 3.363,
+   "n_items": 17
+  },
+  "45-49": {
+   "mean": 3.467,
+   "n_items": 15
+  },
+  "50-54": {
+   "mean": 3.562,
+   "n_items": 16
+  },
+  "54-59": {
+   "mean": 3.444,
+   "n_items": 12
+  },
+  "60-64": {
+   "mean": 3.172,
+   "n_items": 29
+  },
+  ">65": {
+   "mean": 3.343,
+   "n_items": 35
+  }
+ },
+ "q2_variance": {
+  "openai/gpt-4o|65": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "openai/gpt-4o|75": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "openai/gpt-4o|85": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "anthropic/claude-sonnet-4.5|65": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "anthropic/claude-sonnet-4.5|75": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.627,
+   "wilcoxon_p": 0.0
+  },
+  "anthropic/claude-sonnet-4.5|85": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.598,
+   "wilcoxon_p": 0.0
+  },
+  "meta-llama/llama-3.1-70b-instruct|65": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.533,
+   "wilcoxon_p": 0.0
+  },
+  "meta-llama/llama-3.1-70b-instruct|75": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "meta-llama/llama-3.1-70b-instruct|85": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "qwen/qwen-2.5-72b-instruct|65": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "qwen/qwen-2.5-72b-instruct|75": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "qwen/qwen-2.5-72b-instruct|85": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "google/gemini-2.5-flash|65": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "google/gemini-2.5-flash|75": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "google/gemini-2.5-flash|85": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.447,
+   "wilcoxon_p": 0.0
+  },
+  "mistralai/mistral-large-2512|65": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "mistralai/mistral-large-2512|75": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  },
+  "mistralai/mistral-large-2512|85": {
+   "n_items": 40,
+   "pilot_median_sd": 0.707,
+   "persona_median_sd": 0.0,
+   "median_diff": 0.548,
+   "wilcoxon_p": 0.0
+  }
+ },
+ "q3_fidelity": {
+  "openai/gpt-4o": {
+   "n_items": 40,
+   "median_abs_err_persona75": 0.467,
+   "median_abs_err_neutral": 0.433,
+   "median_paired_diff": 0.0,
+   "items_persona_closer": 10,
+   "items_neutral_closer": 8,
+   "wilcoxon_p": 0.75791
+  },
+  "anthropic/claude-sonnet-4.5": {
+   "n_items": 40,
+   "median_abs_err_persona75": 0.533,
+   "median_abs_err_neutral": 0.4,
+   "median_paired_diff": 0.0,
+   "items_persona_closer": 1,
+   "items_neutral_closer": 8,
+   "wilcoxon_p": 0.01644
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+   "n_items": 40,
+   "median_abs_err_persona75": 0.733,
+   "median_abs_err_neutral": 0.8,
+   "median_paired_diff": 0.0,
+   "items_persona_closer": 7,
+   "items_neutral_closer": 10,
+   "wilcoxon_p": 0.25471
+  },
+  "qwen/qwen-2.5-72b-instruct": {
+   "n_items": 40,
+   "median_abs_err_persona75": 0.6,
+   "median_abs_err_neutral": 0.467,
+   "median_paired_diff": 0.0,
+   "items_persona_closer": 8,
+   "items_neutral_closer": 7,
+   "wilcoxon_p": 0.73181
+  },
+  "google/gemini-2.5-flash": {
+   "n_items": 40,
+   "median_abs_err_persona75": 0.6,
+   "median_abs_err_neutral": 0.533,
+   "median_paired_diff": 0.0,
+   "items_persona_closer": 9,
+   "items_neutral_closer": 13,
+   "wilcoxon_p": 0.11047
+  },
+  "mistralai/mistral-large-2512": {
+   "n_items": 40,
+   "median_abs_err_persona75": 0.433,
+   "median_abs_err_neutral": 0.4,
+   "median_paired_diff": 0.0,
+   "items_persona_closer": 5,
+   "items_neutral_closer": 7,
+   "wilcoxon_p": 0.93721
+  }
+ },
+ "covariate_residence": {
+  "India": {
+   "n": 3,
+   "mean": 3.317
+  },
+  "United States": {
+   "n": 2,
+   "mean": 3.1
+  }
+ }
+}

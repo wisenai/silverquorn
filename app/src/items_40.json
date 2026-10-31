@@ -1,0 +1,378 @@
+[
+ {
+  "item_id": "1729",
+  "role": "item",
+  "popquorn_mean": 2.143,
+  "popquorn_sd": 1.345,
+  "popquorn_n": 7,
+  "quintile": 1,
+  "curation_tag": "parental-authority teasing; old-young diff +3.0"
+ },
+ {
+  "item_id": "2205",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 1.496,
+  "popquorn_n": 7,
+  "quintile": 1,
+  "curation_tag": "joking insult softened with 'j/k' \u2014 banter vs. rudeness"
+ },
+ {
+  "item_id": "2278",
+  "role": "item",
+  "popquorn_mean": 2.143,
+  "popquorn_sd": 1.464,
+  "popquorn_n": 7,
+  "quintile": 1,
+  "curation_tag": "passive-aggressive trailing ellipsis"
+ },
+ {
+  "item_id": "2303",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 1.134,
+  "popquorn_n": 7,
+  "quintile": 1,
+  "curation_tag": "pure initialisms (FYI. ILY. SYT. TGIF.)"
+ },
+ {
+  "item_id": "547",
+  "role": "item",
+  "popquorn_mean": 2.333,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 1,
+  "curation_tag": "direct prying personal question"
+ },
+ {
+  "item_id": "712",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.0,
+  "popquorn_n": 7,
+  "quintile": 1,
+  "curation_tag": "lowercase self-deprecating slang ('i'm a brat!')"
+ },
+ {
+  "item_id": "864",
+  "role": "item",
+  "popquorn_mean": 2.5,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 8,
+  "quintile": 1,
+  "curation_tag": "'LOL' + self-deprecation"
+ },
+ {
+  "item_id": "1698",
+  "role": "item",
+  "popquorn_mean": 2.333,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 1,
+  "curation_tag": "casual lowercase apology w/ typo (formal twin: 3179)"
+ },
+ {
+  "item_id": "386",
+  "role": "item",
+  "popquorn_mean": 2.667,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 2,
+  "curation_tag": "formal register version of 2912 (lion's heart pair)"
+ },
+ {
+  "item_id": "679",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 1.397,
+  "popquorn_n": 7,
+  "quintile": 2,
+  "curation_tag": "cold formal rebuke \u2014 formality as distance"
+ },
+ {
+  "item_id": "1273",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 2,
+  "curation_tag": "'the dude' + all-lowercase casual plan"
+ },
+ {
+  "item_id": "1277",
+  "role": "item",
+  "popquorn_mean": 3.125,
+  "popquorn_sd": 1.356,
+  "popquorn_n": 8,
+  "quintile": 2,
+  "curation_tag": "curt one-line request, no softening"
+ },
+ {
+  "item_id": "1340",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 1.254,
+  "popquorn_n": 7,
+  "quintile": 2,
+  "curation_tag": "playful protest slang ('Don't shush me man')"
+ },
+ {
+  "item_id": "1643",
+  "role": "item",
+  "popquorn_mean": 2.857,
+  "popquorn_sd": 1.574,
+  "popquorn_n": 7,
+  "quintile": 2,
+  "curation_tag": "'FYI' + 'addy' abbreviation"
+ },
+ {
+  "item_id": "2232",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 2,
+  "curation_tag": "dropped-copula texting style ('We drinking beer tonight?')"
+ },
+ {
+  "item_id": "3424",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 2,
+  "curation_tag": "rambling chatty 'Hey guys\u2026 Anyways' register"
+ },
+ {
+  "item_id": "127",
+  "role": "item",
+  "popquorn_mean": 3.5,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 8,
+  "quintile": 3,
+  "curation_tag": "formal wrapper (Dear/Sincerely) on casual content"
+ },
+ {
+  "item_id": "1424",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 3,
+  "curation_tag": "terse lowercase vacation note, initials sign-off"
+ },
+ {
+  "item_id": "1579",
+  "role": "item",
+  "popquorn_mean": 3.333,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 3,
+  "curation_tag": "'pls' abbreviation + initialism sign-off"
+ },
+ {
+  "item_id": "1672",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 3,
+  "curation_tag": "doubled question marks ('??')"
+ },
+ {
+  "item_id": "2168",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 3,
+  "curation_tag": "winking emoticon + guilt-tease"
+ },
+ {
+  "item_id": "2912",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 3,
+  "curation_tag": "texting register version of 386 (lion's heart pair)"
+ },
+ {
+  "item_id": "3004",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 1.397,
+  "popquorn_n": 7,
+  "quintile": 3,
+  "curation_tag": "ALL-CAPS-as-default friendly letter"
+ },
+ {
+  "item_id": "3703",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 3,
+  "curation_tag": "'need ASAP' demand wrapped in thanks"
+ },
+ {
+  "item_id": "30",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.215,
+  "popquorn_n": 7,
+  "quintile": 4,
+  "curation_tag": "no-pleasantries direct work question; diff +2.5"
+ },
+ {
+  "item_id": "507",
+  "role": "item",
+  "popquorn_mean": 3.875,
+  "popquorn_sd": 1.458,
+  "popquorn_n": 8,
+  "quintile": 4,
+  "curation_tag": "all-lowercase lunch invite"
+ },
+ {
+  "item_id": "513",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.345,
+  "popquorn_n": 7,
+  "quintile": 4,
+  "curation_tag": "ALL-CAPS heartfelt affection + '!!!!!'"
+ },
+ {
+  "item_id": "1557",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 1.464,
+  "popquorn_n": 7,
+  "quintile": 4,
+  "curation_tag": "effusive casual praise ('super job!\u2026 awesome')"
+ },
+ {
+  "item_id": "2644",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 7,
+  "quintile": 4,
+  "curation_tag": "old-style spaced emoticon ': )'"
+ },
+ {
+  "item_id": "3015",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 1.0,
+  "popquorn_n": 7,
+  "quintile": 4,
+  "curation_tag": "'you guys' + unpunctuated sign-off"
+ },
+ {
+  "item_id": "3179",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 1.704,
+  "popquorn_n": 7,
+  "quintile": 4,
+  "curation_tag": "formal twin of 1698 (superstitious pair)"
+ },
+ {
+  "item_id": "3325",
+  "role": "item",
+  "popquorn_mean": 3.833,
+  "popquorn_sd": 1.169,
+  "popquorn_n": 6,
+  "quintile": 4,
+  "curation_tag": "mock-humble formality for a bar invite"
+ },
+ {
+  "item_id": "205",
+  "role": "item",
+  "popquorn_mean": 4.333,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 5,
+  "curation_tag": "'Dear Sir' full formality"
+ },
+ {
+  "item_id": "1141",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5,
+  "curation_tag": "exclamation-dense warmth"
+ },
+ {
+  "item_id": "1751",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5,
+  "curation_tag": "formal apology letter; elders rated it lower (-2.0)"
+ },
+ {
+  "item_id": "1961",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5,
+  "curation_tag": "dated honorific 'madam'"
+ },
+ {
+  "item_id": "2748",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5,
+  "curation_tag": "over-hedged apology ('I hope this does not bother you')"
+ },
+ {
+  "item_id": "3023",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5,
+  "curation_tag": "presumptive courtesy ('Thank you for prioritizing this')"
+ },
+ {
+  "item_id": "3417",
+  "role": "item",
+  "popquorn_mean": 4.5,
+  "popquorn_sd": 0.548,
+  "popquorn_n": 6,
+  "quintile": 5,
+  "curation_tag": "stilted hyper-formality ('I would kindly like to share')"
+ },
+ {
+  "item_id": "3612",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5,
+  "curation_tag": "'Thank you in advance' + 'at your earliest convenience'"
+ },
+ {
+  "item_id": "3643",
+  "role": "anchor_polite",
+  "popquorn_mean": 5.0,
+  "popquorn_sd": 0.0,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2612",
+  "role": "anchor_rude",
+  "popquorn_mean": 1.0,
+  "popquorn_sd": 0.0,
+  "popquorn_n": 7,
+  "quintile": 1
+ }
+]

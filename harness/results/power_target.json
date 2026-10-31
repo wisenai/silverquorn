@@ -1,0 +1,22 @@
+{
+ "pooled_within_band_per_rater_sd": 0.6167,
+ "df": 965,
+ "n_band_cells_pooled": 158,
+ "formula": "n = 2 * sigma^2 * (1.96 / MRD)^2, per band, equal n",
+ "raters_per_item_per_band": {
+  "0.05": 1169,
+  "0.10": 293,
+  "0.15": 130,
+  "0.20": 74,
+  "0.25": 47
+ },
+ "reference_depth_in_corpus": {
+  "18-29": 188.5,
+  "45-54": 94.0,
+  "55-64": 53.5,
+  "65-69": 10.0,
+  "70-74": 4.0,
+  "75-81": 1.0
+ },
+ "resolved_human_gap_18_29_vs_70_74": 0.1172
+}

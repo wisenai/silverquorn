@@ -1,0 +1,7 @@
+# Downloaded corpora -- fetched by harness/data/get_data.py, never committed
+harness/data/*.csv
+harness/data/*.parquet
+.env
+__pycache__/
+*.pyc
+.DS_Store

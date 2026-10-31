@@ -1,0 +1,26 @@
+{
+ "openai/gpt-4o": {
+  "floor": 0.0,
+  "inbin": 0.354
+ },
+ "anthropic/claude-sonnet-4.5": {
+  "floor": 0.0,
+  "inbin": 0.0
+ },
+ "meta-llama/llama-3.1-70b-instruct": {
+  "floor": 0.0,
+  "inbin": 0.535
+ },
+ "qwen/qwen-2.5-72b-instruct": {
+  "floor": 0.0,
+  "inbin": 0.0
+ },
+ "google/gemini-2.5-flash": {
+  "floor": 0.0,
+  "inbin": 0.463
+ },
+ "mistralai/mistral-large-2512": {
+  "floor": 0.0,
+  "inbin": 0.0
+ }
+}

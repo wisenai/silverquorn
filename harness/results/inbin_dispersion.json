@@ -1,0 +1,46 @@
+{
+ "in_bin_ages": [
+  66,
+  69,
+  72,
+  75,
+  78,
+  81,
+  85,
+  88
+ ],
+ "real_elder_median_per_item_sd": 0.707,
+ "real_elder_n": 5,
+ "models": {
+  "openai/gpt-4o": {
+   "median_per_item_sd": 0.354,
+   "n_items": 40,
+   "ratio_to_real": 0.5
+  },
+  "anthropic/claude-sonnet-4.5": {
+   "median_per_item_sd": 0.0,
+   "n_items": 40,
+   "ratio_to_real": 0.0
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+   "median_per_item_sd": 0.535,
+   "n_items": 40,
+   "ratio_to_real": 0.76
+  },
+  "qwen/qwen-2.5-72b-instruct": {
+   "median_per_item_sd": 0.0,
+   "n_items": 40,
+   "ratio_to_real": 0.0
+  },
+  "google/gemini-2.5-flash": {
+   "median_per_item_sd": 0.463,
+   "n_items": 40,
+   "ratio_to_real": 0.65
+  },
+  "mistralai/mistral-large-2512": {
+   "median_per_item_sd": 0.0,
+   "n_items": 40,
+   "ratio_to_real": 0.0
+  }
+ }
+}

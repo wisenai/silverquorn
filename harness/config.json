@@ -1,0 +1,41 @@
+{
+  "note": "Model slugs are pinned but MUST be availability-checked on OpenRouter (https://openrouter.ai/models) immediately before the run; pricing and availability drift. Per HARNESS_SPEC.md §3, swap freely if pricing/availability dictates, but keep >=5 models with >=2 open-weight.",
+  "models": [
+    "openai/gpt-4o",
+    "anthropic/claude-sonnet-4.5",
+    "meta-llama/llama-3.1-70b-instruct",
+    "qwen/qwen-2.5-72b-instruct",
+    "google/gemini-2.5-flash",
+    "mistralai/mistral-large-2512"
+  ],
+  "persona_ages": [null, 25, 35, 45, 55, 65, 75, 85],
+  "temperature": 0.7,
+  "samples": 3,
+  "max_tokens": 8,
+  "max_concurrent_requests": 8,
+  "budget_usd": 40.0,
+  "cost_tracking": {
+    "enabled": true,
+    "source": "openrouter_usage_field",
+    "usage_include": true,
+    "cost_state_file": "runs/cost_state.json",
+    "pricing_note": "Prices below are ROUGH per-million-token estimates used only for --dry-run projections; actual accounting uses the usage.cost field returned by OpenRouter per response.",
+    "pricing_estimates_per_mtok": {
+      "openai/gpt-4o": {"input": 2.5, "output": 10.0},
+      "anthropic/claude-sonnet-4.5": {"input": 3.0, "output": 15.0},
+      "meta-llama/llama-3.1-70b-instruct": {"input": 0.3, "output": 0.4},
+      "qwen/qwen-2.5-72b-instruct": {"input": 0.3, "output": 0.4},
+      "google/gemini-2.5-flash": {"input": 0.3, "output": 2.5},
+      "mistralai/mistral-large-2512": {"input": 0.5, "output": 1.5}
+    }
+  },
+  "request": {
+    "network_retries": 5,
+    "backoff_base_seconds": 2.0,
+    "timeout_seconds": 60
+  },
+  "parse_retries": 2,
+  "items_file": "items_200.json",
+  "runs_dir": "runs",
+  "results_dir": "results"
+}

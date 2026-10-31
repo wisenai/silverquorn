@@ -1,0 +1,17 @@
+{
+ "n_completers": 5,
+ "inclusion_rule": "rated >= 30 of 40 real items",
+ "bracket_counts": {
+  "70\u201374": 3,
+  "65\u201369": 2
+ },
+ "country_counts": {
+  "India": 3,
+  "United States": 2
+ },
+ "country_means": {
+  "India": 3.3167,
+  "United States": 3.1
+ },
+ "median_per_item_sd": 0.7071
+}

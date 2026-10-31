@@ -1,0 +1,1602 @@
+[
+ {
+  "item_id": "1729",
+  "role": "item",
+  "popquorn_mean": 2.143,
+  "popquorn_sd": 1.345,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2205",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 1.496,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2278",
+  "role": "item",
+  "popquorn_mean": 2.143,
+  "popquorn_sd": 1.464,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2303",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 1.134,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "547",
+  "role": "item",
+  "popquorn_mean": 2.333,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "712",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.0,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "864",
+  "role": "item",
+  "popquorn_mean": 2.5,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 8,
+  "quintile": 1
+ },
+ {
+  "item_id": "1698",
+  "role": "item",
+  "popquorn_mean": 2.333,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "386",
+  "role": "item",
+  "popquorn_mean": 2.667,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "679",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 1.397,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1273",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1277",
+  "role": "item",
+  "popquorn_mean": 3.125,
+  "popquorn_sd": 1.356,
+  "popquorn_n": 8,
+  "quintile": 2
+ },
+ {
+  "item_id": "1340",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 1.254,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1643",
+  "role": "item",
+  "popquorn_mean": 2.857,
+  "popquorn_sd": 1.574,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "2232",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "3424",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "127",
+  "role": "item",
+  "popquorn_mean": 3.5,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 8,
+  "quintile": 3
+ },
+ {
+  "item_id": "1424",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "1579",
+  "role": "item",
+  "popquorn_mean": 3.333,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "1672",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "2168",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "2912",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "3004",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 1.397,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "3703",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "30",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.215,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "507",
+  "role": "item",
+  "popquorn_mean": 3.875,
+  "popquorn_sd": 1.458,
+  "popquorn_n": 8,
+  "quintile": 4
+ },
+ {
+  "item_id": "513",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.345,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1557",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 1.464,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "2644",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "3015",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 1.0,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "3179",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 1.704,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "3325",
+  "role": "item",
+  "popquorn_mean": 3.833,
+  "popquorn_sd": 1.169,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "205",
+  "role": "item",
+  "popquorn_mean": 4.333,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "1141",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1751",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1961",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2748",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "3023",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "3417",
+  "role": "item",
+  "popquorn_mean": 4.5,
+  "popquorn_sd": 0.548,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "3612",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1208",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.414,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2826",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2366",
+  "role": "item",
+  "popquorn_mean": 2.375,
+  "popquorn_sd": 1.188,
+  "popquorn_n": 8,
+  "quintile": 1
+ },
+ {
+  "item_id": "2721",
+  "role": "item",
+  "popquorn_mean": 2.333,
+  "popquorn_sd": 1.033,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "3277",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "892",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.265,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "3191",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 1.397,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "288",
+  "role": "item",
+  "popquorn_mean": 2.333,
+  "popquorn_sd": 1.751,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "1445",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 0.894,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "1325",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 8,
+  "quintile": 1
+ },
+ {
+  "item_id": "3130",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2109",
+  "role": "item",
+  "popquorn_mean": 1.714,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "1973",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.155,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "1406",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "3410",
+  "role": "item",
+  "popquorn_mean": 1.429,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "332",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "562",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.195,
+  "popquorn_n": 8,
+  "quintile": 1
+ },
+ {
+  "item_id": "3432",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "1280",
+  "role": "item",
+  "popquorn_mean": 1.714,
+  "popquorn_sd": 0.488,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2359",
+  "role": "item",
+  "popquorn_mean": 1.5,
+  "popquorn_sd": 0.837,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "1941",
+  "role": "item",
+  "popquorn_mean": 2.429,
+  "popquorn_sd": 1.272,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2978",
+  "role": "item",
+  "popquorn_mean": 2.5,
+  "popquorn_sd": 0.926,
+  "popquorn_n": 8,
+  "quintile": 1
+ },
+ {
+  "item_id": "1346",
+  "role": "item",
+  "popquorn_mean": 1.143,
+  "popquorn_sd": 0.378,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2325",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2374",
+  "role": "item",
+  "popquorn_mean": 2.5,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 8,
+  "quintile": 1
+ },
+ {
+  "item_id": "1377",
+  "role": "item",
+  "popquorn_mean": 1.286,
+  "popquorn_sd": 0.488,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "2056",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 1.0,
+  "popquorn_n": 5,
+  "quintile": 1
+ },
+ {
+  "item_id": "727",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "3155",
+  "role": "item",
+  "popquorn_mean": 2.286,
+  "popquorn_sd": 1.254,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "40",
+  "role": "item",
+  "popquorn_mean": 1.0,
+  "popquorn_sd": 0.0,
+  "popquorn_n": 4,
+  "quintile": 1
+ },
+ {
+  "item_id": "1578",
+  "role": "item",
+  "popquorn_mean": 2.143,
+  "popquorn_sd": 0.9,
+  "popquorn_n": 7,
+  "quintile": 1
+ },
+ {
+  "item_id": "3406",
+  "role": "item",
+  "popquorn_mean": 2.0,
+  "popquorn_sd": 0.632,
+  "popquorn_n": 6,
+  "quintile": 1
+ },
+ {
+  "item_id": "1239",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 1.134,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "3681",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 0.894,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "1527",
+  "role": "item",
+  "popquorn_mean": 3.143,
+  "popquorn_sd": 1.345,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1635",
+  "role": "item",
+  "popquorn_mean": 2.857,
+  "popquorn_sd": 0.9,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1464",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.155,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "2216",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 1.272,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "98",
+  "role": "item",
+  "popquorn_mean": 2.833,
+  "popquorn_sd": 1.472,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "491",
+  "role": "item",
+  "popquorn_mean": 2.714,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1685",
+  "role": "item",
+  "popquorn_mean": 2.667,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "1799",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.291,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1663",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.291,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1867",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.0,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "3320",
+  "role": "item",
+  "popquorn_mean": 2.857,
+  "popquorn_sd": 1.574,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "3118",
+  "role": "item",
+  "popquorn_mean": 2.833,
+  "popquorn_sd": 0.983,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "20",
+  "role": "item",
+  "popquorn_mean": 2.571,
+  "popquorn_sd": 1.272,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "440",
+  "role": "item",
+  "popquorn_mean": 2.75,
+  "popquorn_sd": 1.035,
+  "popquorn_n": 8,
+  "quintile": 2
+ },
+ {
+  "item_id": "3170",
+  "role": "item",
+  "popquorn_mean": 3.143,
+  "popquorn_sd": 0.378,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "3536",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.155,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "943",
+  "role": "item",
+  "popquorn_mean": 2.833,
+  "popquorn_sd": 1.472,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "218",
+  "role": "item",
+  "popquorn_mean": 2.8,
+  "popquorn_sd": 0.447,
+  "popquorn_n": 5,
+  "quintile": 2
+ },
+ {
+  "item_id": "3582",
+  "role": "item",
+  "popquorn_mean": 2.875,
+  "popquorn_sd": 0.835,
+  "popquorn_n": 8,
+  "quintile": 2
+ },
+ {
+  "item_id": "582",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.291,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "4",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.195,
+  "popquorn_n": 8,
+  "quintile": 2
+ },
+ {
+  "item_id": "941",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 0.632,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "3022",
+  "role": "item",
+  "popquorn_mean": 2.625,
+  "popquorn_sd": 1.061,
+  "popquorn_n": 8,
+  "quintile": 2
+ },
+ {
+  "item_id": "2949",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 0.577,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "551",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.095,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "2661",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 0.707,
+  "popquorn_n": 5,
+  "quintile": 2
+ },
+ {
+  "item_id": "3133",
+  "role": "item",
+  "popquorn_mean": 2.857,
+  "popquorn_sd": 1.215,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "2599",
+  "role": "item",
+  "popquorn_mean": 3.143,
+  "popquorn_sd": 0.9,
+  "popquorn_n": 7,
+  "quintile": 2
+ },
+ {
+  "item_id": "1919",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 1.095,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "834",
+  "role": "item",
+  "popquorn_mean": 3.0,
+  "popquorn_sd": 0.632,
+  "popquorn_n": 6,
+  "quintile": 2
+ },
+ {
+  "item_id": "2434",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 1.366,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "77",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "3119",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "951",
+  "role": "item",
+  "popquorn_mean": 3.625,
+  "popquorn_sd": 1.061,
+  "popquorn_n": 8,
+  "quintile": 3
+ },
+ {
+  "item_id": "3059",
+  "role": "item",
+  "popquorn_mean": 3.5,
+  "popquorn_sd": 0.548,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "1937",
+  "role": "item",
+  "popquorn_mean": 3.571,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "1900",
+  "role": "item",
+  "popquorn_mean": 3.5,
+  "popquorn_sd": 0.548,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "3563",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "2074",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "3200",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 1.254,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "1760",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "535",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "322",
+  "role": "item",
+  "popquorn_mean": 3.571,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "2820",
+  "role": "item",
+  "popquorn_mean": 3.333,
+  "popquorn_sd": 0.516,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "3209",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 1.512,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "3577",
+  "role": "item",
+  "popquorn_mean": 3.25,
+  "popquorn_sd": 1.165,
+  "popquorn_n": 8,
+  "quintile": 3
+ },
+ {
+  "item_id": "897",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 1.506,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "43",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 1.38,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "347",
+  "role": "item",
+  "popquorn_mean": 3.5,
+  "popquorn_sd": 0.837,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "3443",
+  "role": "item",
+  "popquorn_mean": 3.167,
+  "popquorn_sd": 0.753,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "1054",
+  "role": "item",
+  "popquorn_mean": 3.5,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 8,
+  "quintile": 3
+ },
+ {
+  "item_id": "3225",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "541",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "223",
+  "role": "item",
+  "popquorn_mean": 3.25,
+  "popquorn_sd": 0.707,
+  "popquorn_n": 8,
+  "quintile": 3
+ },
+ {
+  "item_id": "3376",
+  "role": "item",
+  "popquorn_mean": 3.6,
+  "popquorn_sd": 1.673,
+  "popquorn_n": 5,
+  "quintile": 3
+ },
+ {
+  "item_id": "3636",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "838",
+  "role": "item",
+  "popquorn_mean": 3.429,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "759",
+  "role": "item",
+  "popquorn_mean": 3.571,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "2023",
+  "role": "item",
+  "popquorn_mean": 3.571,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "714",
+  "role": "item",
+  "popquorn_mean": 3.667,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 3
+ },
+ {
+  "item_id": "2377",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "3016",
+  "role": "item",
+  "popquorn_mean": 3.286,
+  "popquorn_sd": 1.254,
+  "popquorn_n": 7,
+  "quintile": 3
+ },
+ {
+  "item_id": "23",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 0.9,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1108",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "3387",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 1.496,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1513",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 0.378,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1907",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 0.632,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "1438",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 0.894,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "2500",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 1.215,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "2729",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1243",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "2083",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "485",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1675",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "3091",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 0.9,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1870",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 1.095,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "611",
+  "role": "item",
+  "popquorn_mean": 4.125,
+  "popquorn_sd": 0.835,
+  "popquorn_n": 8,
+  "quintile": 4
+ },
+ {
+  "item_id": "2218",
+  "role": "item",
+  "popquorn_mean": 3.833,
+  "popquorn_sd": 0.408,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "860",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 1.113,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "877",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 0.577,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1733",
+  "role": "item",
+  "popquorn_mean": 3.857,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1245",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "542",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "3290",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "248",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 1.549,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "2717",
+  "role": "item",
+  "popquorn_mean": 3.833,
+  "popquorn_sd": 0.983,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "2606",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 0.9,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1913",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 0.69,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "2516",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 1.095,
+  "popquorn_n": 6,
+  "quintile": 4
+ },
+ {
+  "item_id": "259",
+  "role": "item",
+  "popquorn_mean": 4.0,
+  "popquorn_sd": 1.225,
+  "popquorn_n": 5,
+  "quintile": 4
+ },
+ {
+  "item_id": "3701",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "2238",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 1.464,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "99",
+  "role": "item",
+  "popquorn_mean": 3.714,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "2116",
+  "role": "item",
+  "popquorn_mean": 4.143,
+  "popquorn_sd": 1.069,
+  "popquorn_n": 7,
+  "quintile": 4
+ },
+ {
+  "item_id": "1262",
+  "role": "item",
+  "popquorn_mean": 4.333,
+  "popquorn_sd": 0.516,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "1455",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2474",
+  "role": "item",
+  "popquorn_mean": 4.75,
+  "popquorn_sd": 0.707,
+  "popquorn_n": 8,
+  "quintile": 5
+ },
+ {
+  "item_id": "3444",
+  "role": "item",
+  "popquorn_mean": 4.75,
+  "popquorn_sd": 0.463,
+  "popquorn_n": 8,
+  "quintile": 5
+ },
+ {
+  "item_id": "1435",
+  "role": "item",
+  "popquorn_mean": 4.714,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2954",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2817",
+  "role": "item",
+  "popquorn_mean": 4.167,
+  "popquorn_sd": 1.602,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "2486",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2131",
+  "role": "item",
+  "popquorn_mean": 4.167,
+  "popquorn_sd": 1.169,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "840",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.976,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2284",
+  "role": "item",
+  "popquorn_mean": 4.714,
+  "popquorn_sd": 0.488,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "766",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2220",
+  "role": "item",
+  "popquorn_mean": 4.571,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "3479",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "3150",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "851",
+  "role": "item",
+  "popquorn_mean": 4.333,
+  "popquorn_sd": 1.211,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "176",
+  "role": "item",
+  "popquorn_mean": 4.571,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "164",
+  "role": "item",
+  "popquorn_mean": 4.571,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1773",
+  "role": "item",
+  "popquorn_mean": 4.333,
+  "popquorn_sd": 0.516,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "2818",
+  "role": "item",
+  "popquorn_mean": 4.571,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1223",
+  "role": "item",
+  "popquorn_mean": 4.714,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "2725",
+  "role": "item",
+  "popquorn_mean": 4.5,
+  "popquorn_sd": 0.837,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "2450",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.951,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1220",
+  "role": "item",
+  "popquorn_mean": 4.167,
+  "popquorn_sd": 0.753,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "1301",
+  "role": "item",
+  "popquorn_mean": 4.571,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "586",
+  "role": "item",
+  "popquorn_mean": 5.0,
+  "popquorn_sd": 0.0,
+  "popquorn_n": 5,
+  "quintile": 5
+ },
+ {
+  "item_id": "2256",
+  "role": "item",
+  "popquorn_mean": 4.714,
+  "popquorn_sd": 0.488,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1917",
+  "role": "item",
+  "popquorn_mean": 4.667,
+  "popquorn_sd": 0.816,
+  "popquorn_n": 6,
+  "quintile": 5
+ },
+ {
+  "item_id": "3658",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "1683",
+  "role": "item",
+  "popquorn_mean": 4.571,
+  "popquorn_sd": 0.535,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "3407",
+  "role": "item",
+  "popquorn_mean": 4.286,
+  "popquorn_sd": 0.756,
+  "popquorn_n": 7,
+  "quintile": 5
+ },
+ {
+  "item_id": "881",
+  "role": "item",
+  "popquorn_mean": 4.429,
+  "popquorn_sd": 0.787,
+  "popquorn_n": 7,
+  "quintile": 5
+ }
+]
